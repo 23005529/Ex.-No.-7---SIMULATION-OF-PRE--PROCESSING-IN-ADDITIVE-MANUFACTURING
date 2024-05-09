@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/23005529/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139842207/9732058e-48f0-42f1-a0d5-4991417fa71a)
+
+### Name: ALIYA SHEEMA
+### Register Number: 212223230011
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
